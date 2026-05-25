@@ -7,3 +7,8 @@ International Business Administration student with a strong interest in Data Ana
 - Excel
 - Power BI
 ## 📂 Featured Projects
+### 📊 [HR Workforce Dashboard](https://github.com/quanghung20041/HR-Workforce-Dashboard)
+
+Interactive Power BI dashboard analyzing workforce metrics, employee turnover, recruitment performance, and retention insights.
+
+**Tools:** Power BI, DAX, Power Query, Excel
