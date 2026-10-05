@@ -7,7 +7,7 @@
 
 ### 💁‍♂️ About Me
 
-I'm an International Business Administration student with a strong interest in **Data Analytics and Business Analytics**. I work with real operational and business datasets - sales, HR, and distribution data - to build data pipelines, dashboards, and forecasting models that support decision-making.
+I'm an International Business Administration graduate with a strong interest in **Data Analytics and Business Analytics**. I work with real operational and business datasets - sales, HR, and distribution data - to build data pipelines, dashboards, and forecasting models that support decision-making.
 
 I'm currently seeking **Data Analyst / Business Analyst** roles where I can keep developing my analytical, technical, and business problem-solving skills.
 
